@@ -1,0 +1,7 @@
+venv/
+**/__pycache__/
+full_main_backup.py
+DiscordBot.code-workspace
+.vscode/
+**.mp4
+.env

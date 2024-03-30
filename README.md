@@ -4,8 +4,12 @@
 
 Discord Bot Bolyasina is a versatile bot designed to bring entertainment and utility to Discord servers. With features like playing videos using text, showcasing AI-generated pictures, and streaming music from YouTube, Bolyasina aims to provide fun experiences for young audiences.
 
----
 
+![image](https://github.com/phtea/DiscordBotBolyasina/assets/136194022/6976ee1b-45b9-4ec8-8515-44b3a9c44baf)
+![image](https://github.com/phtea/DiscordBotBolyasina/assets/136194022/af18e5f8-dad3-4cb0-9948-5b6765e89700)
+![image](https://github.com/phtea/DiscordBotBolyasina/assets/136194022/3a9cb23f-d093-4e84-8e92-aa1a7f10f67d)
+
+---
 ## Installation Guide
 
 To set up the Discord Bot Bolyasina on your system, follow these steps:

@@ -1,5 +1,4 @@
 # DiscordBotBolyasina
----
 ## What is it?
 
 Discord Bot Bolyasina is a versatile bot designed to bring entertainment and utility to Discord servers. With features like playing videos using text, showcasing AI-generated pictures, and streaming music from YouTube, Bolyasina aims to provide fun experiences for young audiences.
@@ -9,7 +8,6 @@ Discord Bot Bolyasina is a versatile bot designed to bring entertainment and uti
 ![image](https://github.com/phtea/DiscordBotBolyasina/assets/136194022/af18e5f8-dad3-4cb0-9948-5b6765e89700)
 ![image](https://github.com/phtea/DiscordBotBolyasina/assets/136194022/3a9cb23f-d093-4e84-8e92-aa1a7f10f67d)
 
----
 ## Installation Guide
 
 To set up the Discord Bot Bolyasina on your system, follow these steps:
@@ -33,9 +31,7 @@ To set up the Discord Bot Bolyasina on your system, follow these steps:
    - **paginator.py**: Cog for generating pages, useful for listing items in multiple pages.
    - **vidtotextcog.py**: Cog for playing videos from YouTube as text.
 
----
-
-Contributions and Discussions:
+## Contributions and Discussions:
 
 We welcome contributions from the community to enhance Discord Bot Bolyasina further. Feel free to submit pull requests or open issues to suggest improvements or report any bugs. We're also open to discussing any questions or ideas you may have.
 

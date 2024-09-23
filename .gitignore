@@ -4,4 +4,6 @@ full_main_backup.py
 DiscordBot.code-workspace
 .vscode/
 **.mp4
+**.mp3
 .env
+test.py

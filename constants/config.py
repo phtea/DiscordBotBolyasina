@@ -1,4 +1,4 @@
-PREFIX = ';'
+PREFIX = (';', '.', 'ж')
 BOT_STATUS = 'видео с котятами :3'
 BOT_OWNER_AVATAR = ''
 SERVER_EMOJIS = {}

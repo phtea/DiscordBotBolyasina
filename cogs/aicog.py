@@ -9,7 +9,7 @@ class AICog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command(name='ask', help='Спросите искуственный интеллект')
+    @commands.command(name='ask', aliases=['аск', 'фыл'], help='Спросите искуственный интеллект')
     async def chat(self, ctx, *, prompt):
         try:
             resp = await AsyncClient.create_completion("gpt3", prompt)
@@ -17,7 +17,7 @@ class AICog(commands.Cog):
             resp = f'error: {e}'
         await chunked_send(ctx, resp)
         
-    @commands.command(name='aipic', help='Спросите картинку у искусственного интеллекта')
+    @commands.command(name='aipic', aliases=['аипик', 'фшзшс'], help='Спросите картинку у искусственного интеллекта')
     async def give_picture(self, ctx, *, prompt):
         try:
             
